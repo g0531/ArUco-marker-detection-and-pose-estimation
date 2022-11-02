@@ -6,5 +6,6 @@ cd ~/catkin_ws/src
 git clone git@github.com:g0531/ArUco marker detection and pose estimation.git
 ### 2.Catkin make the pose estimation package
 cd ..
+
 catkin_make
 ### 3.
