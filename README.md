@@ -1,1 +1,1 @@
-# EE346
+# ArUco marker detection and pose estimation
