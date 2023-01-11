@@ -1,7 +1,9 @@
 # ArUco marker detection and pose estimation
 This lab consists of two parts:
-First: the robot should follow the outside block loop starting from the position marked "start" 
-Second: During the process of line following, the robot should look for an ArUco marker with the ID = 14, which is placed at the end of the two parallel lines, before coming to a stop in front of the marker
+
+First: the robot should follow the outside block loop starting from the position marked "start" .
+
+Second: During the process of line following, the robot should look for an ArUco marker with the ID = 14, which is placed at the end of the two parallel lines, before coming to a stop in front of the marker.
 
 ## Step 1. clone the source code
 git clone git@github.com:g0531/ArUco marker detection and pose estimation.git
