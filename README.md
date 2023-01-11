@@ -7,6 +7,7 @@ Second: During the process of line following, the robot should look for an ArUco
 git clone git@github.com:g0531/ArUco marker detection and pose estimation.git
 ## Step 2. catkin make all the download package
 cd ~/catkin_ws
+
 catkin_make
 ## Step 3. run roscore
 roscore
