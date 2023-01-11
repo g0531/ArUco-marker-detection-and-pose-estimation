@@ -20,6 +20,6 @@ roslaunch raspicam_node camerav2_410x308_30fps.launch
 
 ## Step 5. roslaunch on PC to find the ArUco marker
 roslaunch aruco_marker_finder.launch markerID:=14 markerSize:=0.05
-## Step 6. roslaunch detect and navigate on PC
+## Step 6. roslaunch detect and navigate on PC to do the line following
 roslaunch line_follower_turtlebot lf.launch
 
