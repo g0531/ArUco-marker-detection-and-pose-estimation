@@ -10,7 +10,7 @@ cd ~/catkin_ws
 catkin_make
 ## Step 3. run roscore
 roscore
-## Step 4. SBC(Raspberry Pi) set up
+## Step 4. SBC(raspberrypi) set up
 roslaunch turtlebot3_bringup turtlebot3_robot.launch
 
 roslaunch raspicam_node camerav2_410x308_30fps.launch
